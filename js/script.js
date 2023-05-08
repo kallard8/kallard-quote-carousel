@@ -1,24 +1,24 @@
 /* Data to Show*/
 const data = [
   {
-   quote: `“Be like a mountain.”`, 
-   emoji: '🗻', 
-   image: `url(assets/mountain.jpg)`
+   quote: `“Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing”`, 
+   emoji: '', 
+   image: `url(assets/dwight_Spell.jpeg)`
   }, 
   {
-   quote: `“Brave the oceans.”`, 
-   emoji: '🌊', 
-   image: `url(assets/ocean.jpg)`
+   quote: `“Who is Justice Beaver?”`, 
+   emoji: '', 
+   image: `url(assets/dwight_glasses.jpeg)`
   },  
   {
-   quote: `“Grow like a tree.”`, 
-   emoji: '🌲' , 
-   image: `url(assets/tree.jpg)`
+   quote: `“Through concentration, I can raise and lower my cholesterol at will”`, 
+   emoji: '' , 
+   image: `url(assets/Darth_Dwight.webp)`
   },
   {
-    quote: `“We'll be ok now.”`, 
-    emoji: '👌', 
-    image: `url(assets/forest.jpg)`
+    quote: `“I am faster than 80 percent of all snakes”`, 
+    emoji: '', 
+    image: `url(assets/dwight_scream.jpeg)`
   }
 ];
 
