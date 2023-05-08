@@ -1,11 +1,8 @@
-# Quote Carousel
+# Topic
 
-A carousel of quotes.
-
-## Why does this exist? 
-- Understand pros and cons of the UI pattern: sliders or carousels
-- Create solution without using depending on a third-party JS library
-- Web experience that can be navigated without a mouse and keyboard
+Dwight Schrute from the hit show "The Office"
 
 ## Citations
+
+- "The Office" (2005) Created by Ricky Gervais & Stephen Merchant, Developed by Greg Daniels
 
