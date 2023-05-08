@@ -1,7 +1,5 @@
 # Quote Carousel
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/quote-carousel)
-
 A carousel of quotes.
 
 ## Why does this exist? 
@@ -10,4 +8,4 @@ A carousel of quotes.
 - Web experience that can be navigated without a mouse and keyboard
 
 ## Citations
-- Your citations and sources go here
+
