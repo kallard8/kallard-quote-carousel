@@ -8,7 +8,7 @@ const data = [
   {
    quote: `“Who is Justice Beaver?”`, 
    emoji: '', 
-   image: `url(assets/dwight_glasses.jpeg)`
+   image: `url(assets/Dwight_Look.webp)`
   },  
   {
    quote: `“Through concentration, I can raise and lower my cholesterol at will”`, 
